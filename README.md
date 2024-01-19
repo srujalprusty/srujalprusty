@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujalprusty&label=Profile%20views&color=0e75b6&style=flat" alt="srujalprusty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujalprusty" alt="srujalprusty" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@prustysrujal" target="blank"><img src="https://img.shields.io/twitter/follow/@prustysrujal?logo=twitter&style=for-the-badge" alt="@prustysrujal" /></a> </p>
 
 - 🌱 I’m currently learning **JFrame,Jswing,GUI,Database etc**
