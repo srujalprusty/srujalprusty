@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Srujal Prusty</h1>
-<h3 align="center">A passionate Andriod Developer from India .I see myself as a lifelong learner of Java who is skilled in all facets of complex Mobile app programming. Capable of working in a team environment and independently managing oneself on individual initiatives. I'm excited about my first professional experience.</h3>
+<h3 align="center">A passionate Andriod Developer from India .I see myself as a lifelong learner of Kotlin who is skilled in all facets of complex Mobile app programming. Capable of working in a team environment and independently managing oneself on individual initiatives. I'm excited about my first professional experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujalprusty&label=Profile%20views&color=0e75b6&style=flat" alt="srujalprusty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@prustysrujal" target="blank"><img src="https://img.shields.io/twitter/follow/@prustysrujal?logo=twitter&style=for-the-badge" alt="@prustysrujal" /></a> </p>
 
-- 🌱 I’m currently learning **JFrame,Jswing,GUI,Database etc**
+- 🌱 I’m currently learning **Kotlin , Andriod Development , Jetpacj Compose , XML , MVVM  etc**
 
-- 💬 Ask me about **HTML,CSS,JAVA,JAVA Swing**
+- 💬 Ask me about **HTML,CSS,JAVA,JAVA Swing , Kotlin**
 
 - 📫 How to reach me **s.srujal0612@gmail.com**
 
