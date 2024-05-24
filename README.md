@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@prustysrujal" target="blank"><img src="https://img.shields.io/twitter/follow/@prustysrujal?logo=twitter&style=for-the-badge" alt="@prustysrujal" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin , Andriod Development , Jetpacj Compose , XML , MVVM  etc**
+- 🌱 I’m currently learning **Kotlin , Andriod Development , Jetpack Compose , XML , MVVM  etc**
 
 - 💬 Ask me about **HTML,CSS,JAVA,JAVA Swing , Kotlin**
 
